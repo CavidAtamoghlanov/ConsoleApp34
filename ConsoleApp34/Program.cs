@@ -124,12 +124,16 @@ abstract class step {
     readonly int b = 11;
 
 }
-static class code { }
-sealed class AAA { }
 
 
 
 
+
+
+dfgfg
+    dfg
+    dfg
+    dfg
 
 
 
